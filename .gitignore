@@ -35,3 +35,5 @@ Resources.rc
 # cmake
 out/
 bin/
+
+.DS_Store
