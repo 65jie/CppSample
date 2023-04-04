@@ -17,10 +17,10 @@ BEGIN
         BEGIN
             VALUE "FileDescription",    "Cpp CMake GTest Sample Project"
             VALUE "FileVersion",        "@PROJECT_VERSION_MAJOR@.@PROJECT_VERSION_MINOR@.@PROJECT_VERSION_PATCH@"
-            VALUE "InternalName",       "IGL"
+            VALUE "InternalName",       "CSP"
             VALUE "LegalCopyright",     "Copyrigh (C) 2023 65Jie"
             VALUE "OriginalFilename",   ""
-            VALUE "ProductName",        "CCGSP"
+            VALUE "ProductName",        "CSP"
             VALUE "ProductVersion",     "@PROJECT_VERSION_MAJOR@.@PROJECT_VERSION_MINOR@.@PROJECT_VERSION_PATCH@"
         END
     END
